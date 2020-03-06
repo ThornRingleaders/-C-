@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "五子棋--完整版", "五子棋--完整版\五子棋--完整版.csproj", "{F06E4476-B6CB-4D0A-8565-7EF0AE5CF64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06E4476-B6CB-4D0A-8565-7EF0AE5CF64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06E4476-B6CB-4D0A-8565-7EF0AE5CF64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06E4476-B6CB-4D0A-8565-7EF0AE5CF64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06E4476-B6CB-4D0A-8565-7EF0AE5CF64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08479DAC-A343-4E04-9AD9-78B02B33E544}
+	EndGlobalSection
+EndGlobal
